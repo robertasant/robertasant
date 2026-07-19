@@ -1,4 +1,7 @@
-# 🐲 Roberta 
-<img title="img" src="img.png">
+# 🐲 Roberta
+
+<div align="center">
+  <img title="imagem" src="img.png">
+</div>
 
 **'Estudante...'**
